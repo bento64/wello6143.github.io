@@ -1,0 +1,5 @@
+/* This will force the site to display the default system font*/
+*{
+    font-family: "Cascadia Code", "Cascadia Code PL", SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+    
+}
