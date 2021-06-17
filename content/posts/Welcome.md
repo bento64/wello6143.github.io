@@ -1,14 +1,9 @@
-+++
-title = "Welcome - Xin chào!"
-date = "2021-03-07T21:43:29+07:00"
-author = "Wello"
-authorTwitter = "" #do not include @
-cover = ""
-tags = ["", ""]
-keywords = ["", ""]
-description = ""
-showFullContent = false
-+++
+---
+title: "Welcome"
+date: 2021-06-17T20:33:17+07:00
+draft: false
+---
+
 
 ###### Xem bản tiếng Việt dưới bản tiếng Anh này
 
@@ -33,15 +28,4 @@ Thế từ lúc này, tôi sẽ viết (có thể là rất nhiều) mỗi ngày
 Các bài viết sẽ viết song ngữ Anh-Việt trong hai bài riêng nhưng tôi sẽ đặt link của bản còn lại trên đầu mỗi bài viết.
 
 Thế nhá, chào thân ái 👋👋👋👋
-
-
-
-
-
-
-
-
-
-
-
 
