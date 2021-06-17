@@ -35,10 +35,15 @@ params:
                 Bài viết chủ yếu về máy tính, toán và anh ngữ
 
     socialIcons:
+      - name: twitter
+        url: "https://www.twitter.com/wello6143"
       - name: hackerrank
         url: "https://www.hackerrank.com/wello6143"
-      - name: codewars
-        url: "https://www.codewars.com/users/wello6143"
+      - name: github
+        url: "https://www.github.com/wello6143"
+      - name: linkedin
+        url: "https://www.linkedin.com/in/wello6143"
+
 
 menu:
   main:
