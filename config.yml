@@ -34,7 +34,7 @@ params:
       Content: >
                 Bài viết chủ yếu về máy tính, toán và anh ngữ
                 
-                Tác giả sẽ bắt đầu viết bài vào cuối năm 2022
+                - Tác giả sẽ bắt đầu viết bài vào cuối năm 2022
 
     socialIcons:
       - name: twitter
